@@ -31,12 +31,6 @@ Beyond coding, I enjoy **learning new technologies, participating in tech events
 
 ---
 
-## 📊 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jotheeshwaranv&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jotheeshwaranv&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotheeshwaranv&layout=compact&theme=dark)  
-
----
 
 ## ⚡️ **Where to Find Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jotheeshwaran-v-9517331a3)  
